@@ -1,2 +1,2 @@
-alert('test');
-window.location='http://www.baidu.com';
+// alert('test');
+// window.location='http://www.baidu.com';
